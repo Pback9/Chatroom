@@ -1,0 +1,4 @@
+This is a server and chatroom written in C for Linux. 
+The program can be compiled with the included makefile. 
+The following command runs the server: ./server [Port]
+The following command runs the client: ./client [IP address] [Port] [Nickname]
